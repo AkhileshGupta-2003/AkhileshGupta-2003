@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Cloud Platforms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkhileshGupta-2003](https://github.com/AkhileshGupta-2003)
+- 👨‍💻 All of my projects are available at [AkhileshGupta-2003](https://github.com/AkhileshGupta-2003)
 
 - 💬 Ask me about **vue, pandas, numpy, scikit-learn and python**
 
 - 📫 How to reach me **akhilesh.bimal@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pQy5ZvuzYN9SliiMmHinkIFpAxDKwiqcaumozNveGj0/edit?usp=sharing](https://docs.google.com/document/d/1pQy5ZvuzYN9SliiMmHinkIFpAxDKwiqcaumozNveGj0/edit?usp=sharing)
+- 📄 Know about my experiences [AKHILESH GUPTA](https://docs.google.com/document/d/1pQy5ZvuzYN9SliiMmHinkIFpAxDKwiqcaumozNveGj0/edit?usp=sharing)
 
 - ⚡ Fun fact **A very funny and serious person at the same time.**
 
